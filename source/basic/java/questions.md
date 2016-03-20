@@ -5,18 +5,33 @@
 关键字，private protected public static final 组合着问
 
 Object类里面有哪几种方法，作用
+
 equals 和 hashCode方法，重写equals的原则()
+
 向上转型
+
 Java引用类型(强引用，软引用，弱引用，虚引用)
+
 线程相关的，主要是volitate，synchorized，wait()，notify()，notifyAll()，join()
+
 Exception和Error
+
 反射的用途
+
 HashMap实现原理(数组+链表)，查找数据的时间复杂度
+
 List有哪些子类，各有什么区别
+
 NIO相关，缓冲区、通道、selector。。。(不熟，面了这么多，挂在这里。其实主要是表现在同步阻塞和异步，传输方式不同。标准IO无法实现非阻塞模式、文件锁、读选择、分散聚集等)
+
 内存泄露，举个例子
+
 OOM是怎么出现的，有哪几块JVM区域会产生OOM，如何解决(对于该问题，建议去《Java特种兵》的3.6章)
+
 Java里面的观察者模式实现
+
 单例实现(我一般用enum写，不容易被挑毛病)
+
 用Java模拟一个栈，并能够做到扩容，并且能有同步锁。（用数组实现）
+
 Java泛型机制，泛型机制的优点，以及类型变量
