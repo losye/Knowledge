@@ -249,14 +249,19 @@ XSS 是实现 CSRF 的诸多途径中的一条，但绝对不是唯一的一条�
 
 参考资料
 
-浅谈HTTP中Get与Post的区别
-http请求与http响应详细解析
-HTTP 条件 Get (Conditional Get)
-HTTP中的长连接与短连接
-HTTP Keep-Alive模式
-HTTP 管线化(HTTP pipelining)
-HTTP协议及其POST与GET操作差异 & C#中如何使用POST、GET等
-会话跟踪
-总结 XSS 与 CSRF 两种跨站攻击
-CSRF简单介绍与利用方法
-XSS攻击及防御
+[浅谈HTTP中Get与Post的区别](http://www.cnblogs.com/hyddd/archive/2009/03/31/1426026.html)
+
+[http请求与http响应详细解析](http://www.cnblogs.com/loveyakamoz/archive/2011/07/22/2113614.html)
+
+[HTTP 条件 Get (Conditional Get)](http://blog.csdn.net/luoleicn/article/details/5289496)
+
+[HTTP中的长连接与短连接](http://www.cnblogs.com/cswuyg/p/3653263.html)
+
+[HTTP Keep-Alive模式](http://www.cnblogs.com/skynet/archive/2010/12/11/1903347.html)
+
+[HTTP 管线化(HTTP pipelining)](http://blog.csdn.net/dongzhiquan/article/details/6114040)
+
+[会话跟踪](http://blog.163.com/chfyljt@126/blog/static/11758032520127302714624/)
+
+[总结 XSS 与 CSRF 两种跨站攻击](https://blog.tonyseek.com/post/introduce-to-xss-and-csrf/)
+
