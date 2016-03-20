@@ -1,6 +1,9 @@
 垃圾回收机制。。。(主要从下面几方面解答 GC原理、最好画图解释一下年轻代（Eden区和Survival区）、年老代、比例分配及为啥要这样分代回收)
+
 对象分配问题，堆栈里的问题，详细的会问道方法区、堆、程序计数器、本地方法栈、虚拟机栈，问题入口从String a,new String("")开始
+
 关键字，private protected public static final 组合着问
+
 Object类里面有哪几种方法，作用
 equals 和 hashCode方法，重写equals的原则()
 向上转型
