@@ -2,8 +2,6 @@
 
 zookeeper是dubbo推荐的注册中心。
 
-[图片]
-
 流程：
 1.服务提供者启动时向/dubbo/com.foo.BarService/providers目录下写入URL
 2.服务消费者启动时订阅/dubbo/com.foo.BarService/providers目录下的URL向/dubbo/com.foo.BarService/consumers目录下写入自己的URL
